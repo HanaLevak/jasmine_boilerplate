@@ -2,7 +2,7 @@
 
 ## What is it?
 
-###The Jasmine Framework
+### The Jasmine Framework
 
 
  What does it do?
