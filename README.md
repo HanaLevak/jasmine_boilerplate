@@ -2,17 +2,17 @@
 
 ## What is it?
 
-#The Jasmine Framework
+###The Jasmine Framework
 
 
-## What does it do?
+ What does it do?
 
-# It automates the testing process of our code
+ It automates the testing process of our code
 
 
-## How do you use it?
+ How do you use it?
 
-# By referencing the necessary Jasmine JS and CSS files
+ By referencing the necessary Jasmine JS and CSS files
 
 ------------------------------------------------------------------------------------
 `python3 -m http.server`
