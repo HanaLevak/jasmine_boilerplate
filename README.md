@@ -2,7 +2,7 @@
 
 ## What is it?
 
-### The Jasmine Framework
+### The Jasmine testing
 
 
  What does it do?
