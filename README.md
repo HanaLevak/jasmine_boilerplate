@@ -14,7 +14,5 @@
 
  By referencing the necessary Jasmine JS and CSS files
 
-------------------------------------------------------------------------------------
-`python3 -m http.server`
 
 Happy coding!.)
